@@ -1,0 +1,6 @@
+pyproject.toml
+ai_python_drills.egg-info/PKG-INFO
+ai_python_drills.egg-info/SOURCES.txt
+ai_python_drills.egg-info/dependency_links.txt
+ai_python_drills.egg-info/requires.txt
+ai_python_drills.egg-info/top_level.txt

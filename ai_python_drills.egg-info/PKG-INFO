@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: ai-python-drills
+Version: 0.1.0
+Summary: AI Engineering Python Drills
+Requires-Python: >=3.11
+Requires-Dist: numpy>=1.26
+Requires-Dist: pandas>=2.1
+Requires-Dist: pydantic>=2.5
+Requires-Dist: httpx>=0.25
+Requires-Dist: fastapi>=0.109
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: seaborn>=0.13
+Requires-Dist: jupyterlab>=4.0
+Requires-Dist: scikit-learn>=1.3
+Provides-Extra: dev
+Requires-Dist: pytest>=7.4; extra == "dev"
+Requires-Dist: ruff>=0.4; extra == "dev"
+Requires-Dist: mypy>=1.7; extra == "dev"
+Requires-Dist: ipython>=8.18; extra == "dev"
